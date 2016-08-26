@@ -1,6 +1,10 @@
 reCaptcha
 =========
 
+#Modgit Install
+
+`modgit add mage-mod-recaptcha-proxiblue git@github.com:flintdigital/mage-mod-recaptcha-proxiblue.git`
+
 Drop-In Replacement of Magento's core Captcha system with Googles reCaptcha
 
 http://www.proxiblue.com.au/blog/magento-recaptcha/
